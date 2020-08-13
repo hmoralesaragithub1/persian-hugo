@@ -1,4 +1,4 @@
-baseURL = "https://www.persian-hugo.netlify.com"
+baseURL = "https://persian-hugo.netlify.app"
 disqusShortname = ""
 languageCode = "en-us"
 languageName = "En"
